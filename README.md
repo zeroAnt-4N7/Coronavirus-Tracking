@@ -1,5 +1,5 @@
 # Coronavirus Tracking
- Coronovirus Tracking, written in Python is a GUI requests the latest COVID-19 updates from "worldometer.info"
+ Coronavirus Tracking, written in Python is a GUI requests the latest COVID-19 updates from "worldometer.info"
 
 All ui files (Qt Designer files) are located in ui folder
 
